@@ -1,0 +1,8 @@
+{
+  "name": "plasmic-x-50",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:chungwu/plasmic-x-50.git",
+  "author": "Chung Wu <chungwu@plasmic.app>",
+  "license": "MIT"
+}
